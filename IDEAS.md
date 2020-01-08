@@ -51,3 +51,10 @@ Users could arrange meetups and find workout buddies.
 Leave comments on the equipment?
 
 This idea would be a good technical stack that could be repurposed to find other things too
+
+## Cognitive Services
+Sports events, weddings ect.
+
+I've often been given a big list of photos where I have to sift through to find myself in amongst all the photos. It would be great to use cognitive services to face match and query for images of myself only.
+
+This would be great for sporting events and weddings but I can also see that theme parks could benefit from this. I have often spent time queuing and staring at screens looking for images of myself where a simple facial recognition match could return the images only of me
