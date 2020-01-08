@@ -12,6 +12,8 @@ cost of engaging with them for the business that is recruiting
 
 Needs development but it needs to include a way of vetting the people looking for a job and testing their skillsets and checking their identities. Plus getting the matching between business and employee well matched (something that often eludes recruitement agents)
 
+Potentially this is more of a problem with IT recruitment as agents simple don't understand the technical aspect of roles apart from matching up keywords on job specifications and CV's but I imagine other industries have very similar frustrations.
+
 ## Wearables Price Spotter
 A website that details wearable devices and the best prices available to purchase the device.
 
