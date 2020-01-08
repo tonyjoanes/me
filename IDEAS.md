@@ -5,6 +5,13 @@ You can email me if you like any of the ideas and think that you could collabora
 
 tonyjoanes@outlook.com
 
+## Recruitement Disruptor
+My frustration with IT recruitement consultants and the recruitment industry in general inspires me to create something to disrupt the
+industry and take recruitment agents out of the equation thus saving employee frustration with having to deal with recruiters and the
+cost of engaging with them for the business that is recruiting
+
+Needs development but it needs to include a way of vetting the people looking for a job and testing their skillsets and checking their identities. Plus getting the matching between business and employee well matched (something that often eludes recruitement agents)
+
 ## Wearables Price Spotter
 A website that details wearable devices and the best prices available to purchase the device.
 
