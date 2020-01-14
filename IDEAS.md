@@ -14,6 +14,9 @@ Needs development but it needs to include a way of vetting the people looking fo
 
 Potentially this is more of a problem with IT recruitment as agents simple don't understand the technical aspect of roles apart from matching up keywords on job specifications and CV's but I imagine other industries have very similar frustrations.
 
+## Comparison website for recruitment
+Its hard to find trusted reliable recruitement agencies. A place to review and compare them might be useful for both employers and employees
+
 ## Wearables Price Spotter
 A website that details wearable devices and the best prices available to purchase the device.
 
