@@ -1,0 +1,8 @@
+c:\dev\me\WTPM\WTPM\obj\Debug\netcoreapp2.1\WTPM.csprojResolveAssemblyReference.cache
+c:\dev\me\WTPM\WTPM\obj\Debug\netcoreapp2.1\WTPM.csproj.CoreCompileInputs.cache
+c:\dev\me\WTPM\WTPM\obj\Debug\netcoreapp2.1\WTPM.RazorAssemblyInfo.cache
+c:\dev\me\WTPM\WTPM\obj\Debug\netcoreapp2.1\WTPM.RazorAssemblyInfo.cs
+c:\dev\me\WTPM\WTPM\obj\Debug\netcoreapp2.1\WTPM.AssemblyInfoInputs.cache
+c:\dev\me\WTPM\WTPM\obj\Debug\netcoreapp2.1\WTPM.AssemblyInfo.cs
+c:\dev\me\WTPM\WTPM\obj\Debug\netcoreapp2.1\WTPM.dll
+c:\dev\me\WTPM\WTPM\obj\Debug\netcoreapp2.1\WTPM.pdb
